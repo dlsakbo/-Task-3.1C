@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF8E24AA</color> <!-- New color for purple_200 -->
+    <color name="purple_500">#FF512DA8</color> <!-- New color for purple_500 -->
+    <color name="purple_700">#FF311B92</color> <!-- New color for purple_700 -->
+    <color name="teal_200">#FF009688</color> <!-- New color for teal_200 -->
+    <color name="teal_700">#FF00796B</color> <!-- New color for teal_700 -->
+    <color name="black">#FF000000</color> <!-- New color for black -->
+    <color name="white">#FFFFFFFF</color> <!-- New color for white -->
+    <color name="selectedOption">#FFC0C0C0</color> <!-- New color for selectedOption -->
+    <color name="defaultOptionColor">#F5F5F5</color> <!-- New color for defaultOptionColor -->
+    <color name="green">#00FF00</color> <!-- New color for green -->
+    <color name="red">#FF0000</color> <!-- New color for red -->
+</resources>
